@@ -1,3 +1,3 @@
 # This is a Public repository for the WIOSymphony project
-Main information found in the wikipage of the repositior. 
+Go to the Wiki of this repositior to find main info. See you there!
 To be updated
